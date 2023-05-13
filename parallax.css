@@ -14,7 +14,7 @@
 }
 
 .section1{
-   background-image: url(hd-wallpaper-gb1a5eed5c_1920.jpg);
+   background-image: url(./assets/hd-wallpaper-gb1a5eed5c_1920.jpg);
    background-repeat: no-repeat;
    background-position: center;
    align-items: center;
@@ -23,7 +23,7 @@
    /* position: fixed; */
 }
 .section2{
-   background-image: url(nature-g79e7966f2_1920.jpg);
+   background-image: url(./assets/nature-g79e7966f2_1920.jpg);
    background-repeat: no-repeat;
    background-position: center;
    align-items: center;
@@ -31,7 +31,7 @@
    /* position: fixed; */
 }
 .section3{
-   background-image: url(nature-wallpaper-gcd36785b2_1920.jpg);
+   background-image: url(./assets/road-g5b859f689_1920.jpg);
    background-repeat: no-repeat;
    background-position: center;
    align-items: center;
@@ -39,7 +39,7 @@
    /* position: fixed; */
 }
 .section4{
-   background-image: url(road-g5b859f689_1920.jpg);
+   background-image: url(./assets/starry-night-sky.jpg);
    background-repeat: no-repeat;
    background-position: center;
    align-items: center;
